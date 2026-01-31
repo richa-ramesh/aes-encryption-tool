@@ -47,6 +47,9 @@ Enter your message when prompted. The script will:
 - **Nonce**: Each encryption uses a unique nonce for security
 - **Verification**: Decryption includes integrity verification using the authentication tag
 
+## Demo Output
+![Output](OUTPUT.png)
+
 ## Security Note
 
 ⚠️ This is a demonstration script. The encryption key is regenerated each time the script runs and is not persisted. For production use, implement proper key management and storage.
